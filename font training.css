@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'calistoga';
+    src:url()
+}
+
+body {
+    font-family: 'open sans', Arial, Helvetica, sans-serif;
+}

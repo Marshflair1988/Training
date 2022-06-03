@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <link rel="stylesheet" href="font training.css">
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius aut recusandae beatae repudiandae temporibus voluptates voluptatem numquam modi explicabo quibusdam exercitationem officia a eveniet, veritatis provident vitae tenetur soluta quasi?</p>
+    </body>
+</html>
